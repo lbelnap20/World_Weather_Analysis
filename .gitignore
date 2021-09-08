@@ -81,6 +81,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.config.py
 
 # IPython
 profile_default/
@@ -132,3 +133,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+desktop.ini
+passwords.py
+.DS_Store
